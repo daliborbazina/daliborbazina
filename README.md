@@ -1,18 +1,30 @@
 # Dalibor Bazina
 
-Backend developer working primarily with PHP systems (Symfony, Pimcore) and container-based environments.
+## Focus
 
-Most of my professional work involves maintaining and improving existing applications:
-understanding legacy codebases, simplifying complex areas, integrating APIs, and gradually
-introducing better architecture and automated deployments.
+Backend developer focused on PHP-based platforms and brownfield systems.
+
+Most of my work revolves around understanding existing codebases, improving maintainability,
+integrating external services, and incrementally modernizing legacy applications without
+disrupting production systems.
+
+I enjoy simplifying complex areas of mature systems and introducing better structure,
+automation, and container-based delivery over time.
+
+## Working style
+
+- Prefer incremental improvements over large rewrites.
+- Focus on understanding existing systems before changing them.
+- Aim to reduce complexity and improve maintainability over time.
+- Value automated delivery and reproducible environments.
 
 ## Main stack
 
-- PHP (Symfony, Pimcore)
-- MySQL
-- REST APIs
+- PHP backend (Pimcore, Shopware, Symfony ecosystem)
+- MySQL / MariaDB
+- REST APIs & integrations
 - Docker environments
-- GitLab CI/CD
+- CI/CD (GitLab CI)
 - Traefik-based infrastructure
 
 ## What I work on
@@ -20,7 +32,7 @@ introducing better architecture and automated deployments.
 My work typically focuses on backend systems that need to remain stable and understandable over time:
 refactoring existing codebases, improving deployment processes, and reducing operational complexity.
 
-Most production work is hosted on private GitLab due to client and project confidentiality.
+Most production work is hosted on private GitLab due to client and project confidentiality. 
 
 ## Approach
 
