@@ -32,8 +32,6 @@ automation, and container-based delivery over time.
 My work typically focuses on backend systems that need to remain stable and understandable over time:
 refactoring existing codebases, improving deployment processes, and reducing operational complexity.
 
-Most production work is hosted on private GitLab due to client and project confidentiality. 
-
 ## Approach
 
 Understand the problem and the domain first.  
